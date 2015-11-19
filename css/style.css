@@ -59,11 +59,12 @@ i{
 .header-bottom {
   height: 65px;
   width: 100%;
-  background-color: yellow;
+  background-color: white;
   list-style: none;
 }
 .header-bottom-one a{
   background-color: black;
+  text-decoration: none;
 }
 .header-bottom-one li{
   height: 65px;
