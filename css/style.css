@@ -80,3 +80,6 @@ padding: 0px;
   width: 20%;
   background-color: black;
 }
+.header-bottom-two li a{
+    text-transform: uppercase;
+}
