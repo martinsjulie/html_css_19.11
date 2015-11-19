@@ -68,7 +68,10 @@ i{
 .header-bottom-one li{
   height: 65px;
   width: 20%;
-  background-color: black;
+  float: left;
+  /*
+  background-color: green;
+  */
 }
 h1{
 font-family: 'Raleway';
@@ -77,8 +80,13 @@ padding: 0px;
 }
 .header-bottom-two li{
   height: 65px;
-  width: 20%;
+  float: right;
+  width: 10%;
+  list-style: none;
+  margin-top: 15px;
+  /*
   background-color: black;
+  */
 }
 .header-bottom-two li a{
     text-transform: uppercase;
