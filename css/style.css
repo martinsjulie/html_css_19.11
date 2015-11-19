@@ -81,7 +81,7 @@ padding: 0px;
 }
 .header-bottom-two li{
   height: 65px;
-  float: right;
+  float: left;
   width: 10%;
   list-style: none;
   margin-top: 15px;
@@ -93,6 +93,7 @@ padding: 0px;
 .header-bottom-two li a{
     text-transform: uppercase;
     text-decoration: none;
+    color: #999999;
 }
 img{
   width: 100%
