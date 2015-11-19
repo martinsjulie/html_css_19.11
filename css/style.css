@@ -85,10 +85,12 @@ padding: 0px;
   width: 10%;
   list-style: none;
   margin-top: 15px;
+
   /*
   background-color: black;
   */
 }
 .header-bottom-two li a{
     text-transform: uppercase;
+    text-decoration: none;
 }
